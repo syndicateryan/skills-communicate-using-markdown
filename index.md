@@ -4,3 +4,8 @@
 life is good. 
 # Here is an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Here is a coe block to copy and paste from:
+``` javascript
+var myVar = "Hello, world!, copy me!";
+```
